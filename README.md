@@ -1,1 +1,1 @@
-# secure-message-product-jwt
+# secure-product-api
